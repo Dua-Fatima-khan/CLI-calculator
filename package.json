@@ -1,0 +1,19 @@
+{
+  "name": "official_cli_arithmetic_calculator",
+  "version": "1.0.0",
+  "description": "A simple personalized command line calculator to perform all arithmetic operations!!.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.0.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
